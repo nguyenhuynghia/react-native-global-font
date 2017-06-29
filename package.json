@@ -1,0 +1,22 @@
+{
+  "name": "react-native-global-font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhuynghia/react-native-global-font.git"
+  },
+  "author": "nguyenhuynghia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenhuynghia/react-native-global-font/issues"
+  },
+  "homepage": "https://github.com/nguyenhuynghia/react-native-global-font#readme",
+  "dependencies": {
+    "lodash.wrap": "^4.1.1"
+  }
+}
