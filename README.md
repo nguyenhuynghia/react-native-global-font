@@ -2,7 +2,7 @@
 React Native apply custom font for iOS and Android
 
 # Installation
-* Add font file to your app **assets/font/** 
+* Add font file to your app **assets/fonts/**
 
 * In **package.json** :
 
