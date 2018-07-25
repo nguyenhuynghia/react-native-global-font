@@ -1,4 +1,4 @@
-# react-native-global-font
+# react-native-global-font [![npm version](https://badge.fury.io/js/react-native-global-font.svg)](https://badge.fury.io/js/react-native-global-font) ![MIT](https://img.shields.io/dub/l/vibe-d.svg) ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-yellow.svg) 
 React Native apply custom font for iOS and Android
 
 # Installation
