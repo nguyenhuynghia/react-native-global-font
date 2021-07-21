@@ -4,21 +4,22 @@ React Native apply custom font for iOS and Android
 # Installation
 * Add font file to your app **assets/fonts/**
 
-* In **package.json** :
+* Create `react-native.config.js` file in your react native project:
 
   ```
-  ...
-  "rnpm": {
-    "assets": [
-      "./assets/fonts"
-    ]
-  }
+  module.exports = {
+    project: {
+      ios: {},
+      android: {},
+    },
+    assets: ['./assets/fonts/'],
+  };
   ```
 * Run: 
 
   ```
   npm install --save react-native-global-font
-  react-native link
+  npx react-native link
   ```
   
 * **iOS:** add to **info.plist** :
